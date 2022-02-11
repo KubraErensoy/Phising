@@ -51,7 +51,7 @@ Data preprocessing is a step to get qualified data. These steps are as follows:
 
 - Total 15 features were used.
 
-![image](https://user-images.githubusercontent.com/97549619/153666488-5edc50ae-44f1-4a66-ad50-7bd0738fe2a2.png)
+![2](https://user-images.githubusercontent.com/97549619/153668793-8c16bebe-c4dc-405c-8ef1-bc885d26b8a3.png)
 ## Machine Learning Algorithms
 
 - **Random Forest :** Random forest is a popular algorithm as it can be used for both classification and regression problems. It works with tagged data which is called supervised learning. It classifies many decision trees and uses them to get better results.
@@ -63,14 +63,18 @@ Data preprocessing is a step to get qualified data. These steps are as follows:
 
 - Confusion matrix is generated for each ML algorithm.
 - According to these values, «Precision, Recall, F-1 Score» scores were calculated.
-
-![image](https://user-images.githubusercontent.com/97549619/153666712-bbda80e3-8e23-419f-ad4c-5d2a708c98b2.png)
+- 
+![3](https://user-images.githubusercontent.com/97549619/153669278-6ebf4733-c4c7-489e-9c66-8cf6861f1c01.png)
 
 - **Precision** is the proportion of correct positive predictions.
 - **Recall** is the proportion of correctly identified positive samples.
 - **F1 score** is the harmonic mean of precision and recall values.
 
-![image](https://user-images.githubusercontent.com/97549619/153666425-5db81760-49ad-42c9-95f9-0f59ff93697e.png)
+![4](https://user-images.githubusercontent.com/97549619/153669298-d3593aa3-7a08-41f5-b9bd-4cb55c2e212e.png)
+
+![Accuracy](https://user-images.githubusercontent.com/97549619/153668477-2c16a4df-8b7c-4e17-bf8b-9bf1aeb6fddd.png)
+
+
 
 ## Conclusion
 - Phishing is one of the most common cyber threats and it still cause huge financial losses. There are variable approaches to detect these attacks such as Content-based, Rule-based etc. and we prefered URL-based Approach.
